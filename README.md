@@ -31,3 +31,11 @@ and disk load. No fixed CPU or memory minimum has been measured for Tunerr.
 
 - Application source and issues: <https://github.com/snapetech/iptvtunerr>
 - Package questions: <https://github.com/snapetech/iptvtunerr-unraid/issues>
+
+## License
+
+IPTV Tunerr is available under AGPL-3.0-or-later or a separate commercial
+agreement. The root `LICENSE` contains the standard AGPL version 3 text so
+GitHub and Community Applications can recognize the OSI-approved license;
+the separate commercial option is described in the
+[upstream license notice](https://github.com/snapetech/iptvtunerr/blob/main/LICENSE).
